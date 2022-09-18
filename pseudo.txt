@@ -1,0 +1,11 @@
+START
+m = 10
+n = INSERT
+READ n
+if (n % 2 != 0) {
+	console.log(n+=m);
+}
+else {
+	return n is even;
+}
+END
